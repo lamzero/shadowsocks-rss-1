@@ -1,85 +1,59 @@
-# ShadowsocksR project backup
+<h1>ShadowsocksR project backup</h1>
 
-## 各项目fork链接
+SSR全称是什么？
 
-  Main branch
+正确为ShadowsocksR，有人称之为Shadowsocks-rss是错误的，rss是真正简单的整合(Really Simple Syndication)的缩写
 
-* SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
+本项目内容：`SSR项目备份` `常见问题` 以及 `SSR备份组织收录`
 
-* SSR android https://github.com/shadowsocksr-rm/shadowsocksr-android
+**原版项目备份**  
 
-* SSR c# https://github.com/shadowsocksrr/shadowsocksr-csharp
+https://github.com/shadowsocksr-backup
+ 
+**其他备份**
 
-* SSR libev https://github.com/shadowsocksr-rm/shadowsocksr-libev
+pubkey  https://github.com/Ssrbackup/pubkey
 
-* SSR X NG https://github.com/shadowsocksr-rm/ShadowsocksX-NG
-
-* shadowsocks-rss https://github.com/shadowsocksr-rm/shadowsocks-rss
-
-* openwrt-shadowsocksR-libev-full https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
-
-  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
-
-* openwrt-shadowsocks https://github.com/shadowsocks/openwrt-shadowsocks
-
-  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
-  
-* luci-app-shadowsocks https://github.com/shadowsocks/luci-app-shadowsocks
-  
-  fork https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
-  
-
-## other
-
-* breakwa11.github.io fork 14days ago(20170729)
-
-  https://github.com/solomasters/breakwa11.github.io/tree/master
-
-  backup fork Ssrbackup/reakwa11.github.io
-
-* pubkey https://github.com/breakwa11/pubkey
-
-  backup fork Ssrbackup/pubkey
-  
-* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
-  
-  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
-
-### fork organization
-
-以下三个organization 均已fork ssr所有项目
-
-1. http://github.com/shadowsocksr-rm
-
-2. http://github.com/shadowsocksrr
-
-3. http://github.com/shadowsocksr-backup
-
-
-由建立时间前后排序
-
-## wiki备份
+#### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-#### 常用服务端代码备份
+#### 其他备份组织
 
-* SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
+ http://github.com/shadowsocksr-rm  少量修改见 [link](https://github.com/ssrbackup/shadowsocks-rss/issues/4) 
 
-* SSR libev https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr-libev.zip
+#### 常用客户端下载  ```最后一版```
 
-克隆自ssr fork项目 zip文件 linux系统请按装 unzip   使用命令  `unzip 文件名解压`
+**注意**
 
-#### 常用客户端
+下载使用第三方提供的客户端建议 校验签名 sha1 md5
 
-* SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
+```SSR android 3.4.0.6```  [download](https://github.com/esdeathlove/panel-download/blob/master/ssr-android.apk?raw=true) 
 
-* SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
- 
-  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext)
-  
-  更多请前往fork 下载使用
+``` SSR C# 4.7.0 ``` [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
+<h1></h1>
+<b>pac无法更新?</b>  因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
-### 历史版本请前往对应文件夹
+修复方法 https://t.me/ssr_backup/35 (请先登录tg客户端)
 
-内容有错误 或者有问题 请联系tg https://t.me/Spamuser
+以下提供两份修复客户端  酌情考虑使用
+
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip) (来自tg `@spamuser` version4.7)
+
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (来自tg `@hinext` version4.7)
+
+**感谢以下网友提供历史客户端备份**
+
+```Alen Gali``` ```bowlkk kk```	
+
+### other
+
+**shadowsocksrr分支**  [link](https://github.com/shadowsocksrr)
+
+<h1></h1>
+
+### other backup project
+
+**内容有错误 或者有问题**
+>**请联系tg https://t.me/Spamuser**<br>
+**或者邮件至 ssr.project.backup@gmail.com**
