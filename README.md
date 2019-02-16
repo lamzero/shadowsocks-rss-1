@@ -28,7 +28,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 下载使用第三方提供的客户端建议 校验签名 sha1 md5
 
-```SSR android 3.4.0.6```  [download](https://github.com/esdeathlove/panel-download/blob/master/ssr-android.apk?raw=true) 
+```SSR android 3.4.0.6```  [download](https://github.com/SSRbackup/shadowsocks-rss/raw/master/android-history/ssr_3.4.0.6.apk) 
 
 ``` SSR C# 4.7.0 ``` [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
 <h1></h1>
