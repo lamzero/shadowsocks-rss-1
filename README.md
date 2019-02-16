@@ -30,7 +30,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 ```SSR android 3.4.0.6```  [download](https://github.com/SSRbackup/shadowsocks-rss/raw/master/android-history/ssr_3.4.0.6.apk) 
 
-``` SSR C# 4.7.0 ``` [download](https://github.com/esdeathlove/panel-download/https://github.com/SSRbackup/shadowsocks-rss/blob/master/win-history/ShadowsocksR-4.7.0-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
+``` SSR C# 4.7.0 ``` [download](https://github.com/SSRbackup/shadowsocks-rss/blob/master/win-history/ShadowsocksR-4.7.0-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
 <h1></h1>
 <b>pac无法更新?</b>  因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
